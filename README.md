@@ -11,10 +11,10 @@ It showcases how observability can be implemented to visualize key metrics and t
 
 ## Screenshots
 ### Dashboard
-![Grafana Dashboard](images/dashboard.png)
+<img src="images/Grafana.png">
 
 ### Alerting
-![Grafana Alerting](images/alerting.png)
+<img src="images/Grafana Alert.png">
 
 ## Technologies
 - Grafana  
