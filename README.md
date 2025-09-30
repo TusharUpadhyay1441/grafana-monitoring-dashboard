@@ -1,8 +1,8 @@
 # Grafana Monitoring & Alerting Setup 📊
 
 ## Overview
-This project demonstrates setting up **Grafana dashboards** and **alerting rules** for system monitoring.  
-It showcases how observability can be implemented to visualize key metrics and trigger alerts on defined thresholds.
+This project demonstrates that how i setup the  **Grafana dashboards** and **alerting rules** for system monitoring.  
+It showcases that how observability can be implemented to visualize key metrics and trigger alerts on defined thresholds.
 
 ## Features
 - 📈 Grafana Dashboard for real-time metrics
